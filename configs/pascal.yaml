@@ -4,7 +4,7 @@ nclass: 21
 crop_size: 513
 data_root: Your/Pascal/Path
 
-# arguments for training
+# arguments for training 
 epochs: 80
 batch_size: 2 # per GPU x 4 GPUs
 lr: 0.001
