@@ -475,7 +475,7 @@ class optimal_threshold():
         mean_neg = self.ema_p * self.neg_mean + (1 - self.ema_p) * mean_neg
         var_neg = self.ema_p * self.neg_var + (1 - self.ema_p) * var_neg
 
-        stnd_pos = torch.sqrt(var_pos).cuda() / 2.0 
+        stnd_pos = torch.sqrt(var_pos).cuda()
         stnd_neg = torch.sqrt(var_neg).cuda()
 
         A = stnd_pos.pow(2) - stnd_neg.pow(2)
