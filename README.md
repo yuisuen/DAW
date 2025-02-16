@@ -90,6 +90,7 @@ sh scripts/train.sh <num_gpu> <port>
 If you find this project useful, please consider citing:
 
 ## Citation
+
 ```bibtext
 @inproceedings{sun2023daw,
   title={DAW: Exploring the Better Weighting Function for Semi-supervised Semantic Segmentation},
@@ -97,9 +98,7 @@ If you find this project useful, please consider citing:
   booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
   year={2023}
 }
-```
 
-```bibtex
 @inproceedings{mai2024rankmatch,
   title={RankMatch: Exploring the Better Consistency Regularization for Semi-supervised Semantic Segmentation},
   author={Mai, Huayu and Sun, Rui and Zhang, Tianzhu and Wu, Feng},
