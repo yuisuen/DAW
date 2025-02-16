@@ -93,9 +93,10 @@ If you find this project useful, please consider citing:
 
 ```bibtext
 @inproceedings{sun2023daw,
-  title={DAW: Exploring the Better Weighting Function for Semi-supervised Semantic Segmentation},
+  title={DAW: exploring the better weighting function for semi-supervised semantic segmentation},
   author={Sun, Rui and Mai, Huayu and Zhang, Tianzhu and Wu, Feng},
-  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  booktitle={Proceedings of the 37th International Conference on Neural Information Processing Systems},
+  pages={61792--61805},
   year={2023}
 }
 
