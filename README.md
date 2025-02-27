@@ -89,7 +89,6 @@ sh scripts/train.sh <num_gpu> <port>
 
 If you find this project useful, please consider citing:
 
-## Citation
 
 ```bibtext
 @inproceedings{sun2023daw,
